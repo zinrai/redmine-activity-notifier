@@ -1,0 +1,6 @@
+interval: 15m
+slack_url: "https://hooks.slack.com/services/1234567890"
+atom_url: "https://example.com/project/activity.atom"
+basic_auth:
+  username: "nanashi"
+  password: "hogehoge"
